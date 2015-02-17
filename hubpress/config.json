@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "bouchardm",
-    "repositoryName": "bouchardm.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"bouchardm","repositoryName":"bouchardm.github.io","branch":"master"},"site":{"title":"Marc-Antoine Bouchard M","url":"http://bouchardm.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://bouchardm.github.io/themes/Casper"}}
